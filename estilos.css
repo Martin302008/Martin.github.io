@@ -1,0 +1,90 @@
+#id{
+    border-radius: 20px;
+}
+    
+#imagen{
+height: 320px;    
+width: 100%;
+}
+
+#imagen2{
+height: 600px;
+width:100%;
+}
+
+body{
+background-color: rgb(255, 255, 255);
+}
+
+#imagen3{
+    height: 300px;
+    width: 20%
+}
+
+#imagen4{
+    height: 300px;
+    width: 20%;
+}
+
+#imagen5{
+    height: 300px;
+    width: 20%;
+}
+
+#imagen6{
+    height: 300px;
+    width: 20%;
+}
+
+#imagen7{
+    height: 250px;
+    width: 20%;
+}
+
+#imagen8{
+    height: 250px;
+    width: 20%;
+}
+
+#imagen9{
+    height: 250px;
+    width: 20%;
+}
+
+#imagen10{
+    height: 250px;
+    width: 20%;
+}
+
+#imagen11{
+    height: 250px;
+    width: 20%;
+}
+
+#imagen12{
+    height: 250px;
+    width: 20%;
+}
+
+#imagen13{
+    height:250px ;
+    width:20% ;
+}
+
+#liceo{
+    margin-left: 85%;
+    margin-top: -7%;
+    height: 250px;
+}
+
+#poli{
+    margin-left: 43%;
+}
+
+#termi{
+    margin-left: 43%;
+}
+
+#tran{
+    margin-left: 43%;
+}
